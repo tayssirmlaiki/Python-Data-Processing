@@ -1,0 +1,13 @@
+python-data-processing/
+│
+├─ data/
+│   └─ sample.csv           # Exemple de fichier CSV
+│
+├─ scripts/
+│   └─ process_csv.py       # Script Python principal
+│
+├─ reports/                 # Le rapport sera généré ici
+│
+├─ .gitignore
+├─ README.md
+└─ requirements.txt
